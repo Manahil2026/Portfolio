@@ -3127,33 +3127,7 @@ input, select, textarea {
 	body.is-preload #header:after {
 		opacity: 1;
 	}
-/* Nav */
 
-	.menu{
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-		text-align: center;
-		text-decoration: none;
-		scroll-behavior: smooth;
-		position:fixed;
-		top:0;
-		width:100%;
-		border: 1px solid #e7e7e7;
-		background-color: white;
-		border-radius: 50px;
-	}
-
-	.hor{
-		display:inline;
-		padding: 50px;
-		color: grey;
-		
-	}
-	
-	html{
-		scroll-behavior: smooth;
-	  }
 
 /* Footer */
 
