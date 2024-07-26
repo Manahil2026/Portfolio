@@ -2414,9 +2414,9 @@ input, select, textarea {
 	.shadow {
 			box-shadow: 10px 10px 5px lightblue;
 			border-radius: 20px;
-			margin-left: 150px;
 			overflow:hidden;
 			}
+	
 
 /* List */
 
